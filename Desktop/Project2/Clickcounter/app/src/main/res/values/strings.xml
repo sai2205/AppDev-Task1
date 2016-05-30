@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clickcounter</string>
+    <string name="intro">Count</string>
+    <string name="addone">Click me!</string>
+    <string name="reset">RESET SCORE</string>
+
+</resources>
